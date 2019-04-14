@@ -5,7 +5,7 @@ const SearchPanel = () => {
 
  return <input
  			className = 'search-input'
- 			placeholder = 'Search' />
+ 			placeholder = 'Search + add Item' />
 };
 
 export default SearchPanel;
